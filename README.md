@@ -40,10 +40,16 @@ We will be covering:
 Time Complexity: O(2^n)
 Space Complexity: O(n)
 ```
+
 ## Using *Binet’s formula* To Solve The Fibonacci Sequence Problem
 In 1843, Binet gave a formula which is called “Binet formula” for the usual Fibonacci numbers by using the roots of the characteristic equation x 2 − x − 1 = 0
 
-<a href="https://ibb.co/9VDBHwZ"><img src="https://i.ibb.co/9VDBHwZ/download.png" alt="download" border="0"></a>
+
+F_n	=	(phi^n-(-phi)^(-n))/(sqrt(5))	
+(1)
+	=	((1+sqrt(5))^n-(1-sqrt(5))^n)/(2^nsqrt(5)),	
+(2)
+
 ```
 #include<iostream>
 #include<cmath>
