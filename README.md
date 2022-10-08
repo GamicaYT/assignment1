@@ -46,9 +46,7 @@ In 1843, Binet gave a formula which is called “Binet formula” for the usual 
 
 
 F_n	=	(phi^n-(-phi)^(-n))/(sqrt(5))	
-
-
-	=	((1+sqrt(5))^n-(1-sqrt(5))^n)/(2^nsqrt(5)),	
+	=	((1+sqrt(5))^n-(1-sqrt(5))^n)/(2^nsqrt(5))	
 	
 
 ```
